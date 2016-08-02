@@ -15,6 +15,9 @@
 ## Design
 - [Developing your eye for design](https://medium.com/@JonathanZWhite/developing-your-eye-for-design-cce944bbeae4#.ydt6akf0u)
 
+### CSS
+- [Medium’s CSS is actually pretty f***ing good](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06#.uxiui4b96)
+
 ## Software engineering
 - [Don't Solve Imaginary Problems](https://www.nczonline.net/newsletter/archive/f0e1d724dd/)
 - [What growth engineers can teach us about engineering](https://medium.freecodecamp.com/what-growth-engineers-can-teach-us-about-engineering-f8bd38516e3e#.nlj0y8ige)
@@ -33,5 +36,10 @@
 - [Working for FREE: The Debate](http://www.garyvaynerchuk.com/working-for-free-the-debate/)
 > ... in a weird way, I’m almost guilting you to do what I need
 
+## For beginners
+- [From Zero to Front-end Hero](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.ntk6n3au9)
+
+
 ### Misc interesting
 - [Photos and stories from a designer](https://medium.freecodecamp.com/photos-and-stories-from-a-designer-5ee97750ae5#.h0peaixjo)
+- [Imitation truly is the sincerest form of flattery](http://www.adhamdannaway.com/blog/web-design/imitation-truly-is-the-sincerest-form-of-flattery)
