@@ -19,3 +19,6 @@
 ## Entrepreneurship
 - [Building a Software Product: Lessons Learned](https://medium.com/@jonpitch/building-a-software-product-colon-lessons-learned-2d4e61cea6ea#.j94hdwqyj)
 - [Recruiting Developers](https://medium.com/@jonpitch/recruiting-developers-b8114cec6c54#.oc0ao2r7x)
+
+> You do realize that ideas aren’t worth anything, right? Execution is everything.
+- [Nobody is Going to Steal Your Dumb Idea](https://medium.com/@jonpitch/nobody-is-going-to-steal-your-dumb-idea-3e85c8d66e44#.ohpgxwx01)
