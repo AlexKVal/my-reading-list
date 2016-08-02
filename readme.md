@@ -1,4 +1,4 @@
-# My reading list
+# Links to awesome reading/learning resources
 
 ## Great blogs
 
@@ -8,3 +8,14 @@
 - [Josh Bavari](http://jbavari.github.io/)
 - [Mark Otto @mdo](http://markdotto.com/) creator of Bootstrap
 - [Andrew McGivery](http://mcgivery.com/) Blog about `Ionic framework`
+
+## Design
+- [Developing your eye for design](https://medium.com/@JonathanZWhite/developing-your-eye-for-design-cce944bbeae4#.ydt6akf0u)
+
+## Ember
+- [Write Better Ember Tests](https://medium.com/@jonpitch/write-better-ember-tests-d2e22fb76bf2#.vw094zchz)
+- [Why Ember ? Get Shit Done](https://emberway.io/ember-get-shit-done-36383c2ccc53#.f432kt8ad)
+
+## Entrepreneurship
+- [Building a Software Product: Lessons Learned](https://medium.com/@jonpitch/building-a-software-product-colon-lessons-learned-2d4e61cea6ea#.j94hdwqyj)
+- [Recruiting Developers](https://medium.com/@jonpitch/recruiting-developers-b8114cec6c54#.oc0ao2r7x)
