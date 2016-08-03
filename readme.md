@@ -8,6 +8,7 @@
 - [Josh Bavari](http://jbavari.github.io/)
 - [Mark Otto @mdo](http://markdotto.com/) creator of Bootstrap
 - [Andrew McGivery](http://mcgivery.com/) Blog about `Ionic framework`
+- [Lauren Elizabeth Tan](https://medium.com/@sugarpirate)
 
 #### Companies' blogs
 - [Railsware](http://railsware.com/blog/)
