@@ -16,6 +16,7 @@
 - [Developing your eye for design](https://medium.com/@JonathanZWhite/developing-your-eye-for-design-cce944bbeae4#.ydt6akf0u)
 
 ### CSS
+- [CSS-Diner](http://flukeout.github.io/). A little game to help you learn CSS selectors
 - [Medium’s CSS is actually pretty f***ing good](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06#.uxiui4b96)
 
 ## Software engineering
