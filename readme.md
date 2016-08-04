@@ -49,6 +49,8 @@
 - [Working for FREE: The Debate](http://www.garyvaynerchuk.com/working-for-free-the-debate/)
 > ... in a weird way, I’m almost guilting you to do what I need
 
+- [This is an Ultimate Guide to Becoming a Successful Entrepreneur](http://alltopstartups.com/2015/06/17/how-to-become-an-entrepreneur/)
+
 ## For beginners
 - [From Zero to Front-end Hero](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.ntk6n3au9)
 - [Why Django?](https://www.codeschool.com/blog/2016/08/03/why-django/)
