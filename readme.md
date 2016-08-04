@@ -12,6 +12,7 @@
 - [Mark Otto @mdo](http://markdotto.com/) creator of Bootstrap
 - [Andrew McGivery](http://mcgivery.com/) Blog about `Ionic framework`
 - [Lauren Elizabeth Tan](https://medium.com/@sugarpirate)
+- [ railsonmaui](http://www.railsonmaui.com/)
 
 #### Companies' blogs
 - [Railsware](http://railsware.com/blog/)
@@ -31,8 +32,9 @@
 - [Write Better Ember Tests](https://medium.com/@jonpitch/write-better-ember-tests-d2e22fb76bf2#.vw094zchz)
 - [Why Ember ? Get Shit Done](https://emberway.io/ember-get-shit-done-36383c2ccc53#.f432kt8ad)
 
-## Elixir
+## Elixir / Phoenix
 - [Elixre. An Elixir regular expression editor & tester](http://www.elixre.uk/)
+- [A tutorial. Trello tribute with Phoenix and React](http://codeloveandboards.com/blog/2016/01/04/trello-tribute-with-phoenix-and-react-pt-1/)
 
 ## Git
 - [Rerere Your Boat...](https://git-scm.com/blog/2010/03/08/rerere.html) `git rerere` functionality
