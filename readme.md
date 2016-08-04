@@ -28,6 +28,9 @@
 - [Write Better Ember Tests](https://medium.com/@jonpitch/write-better-ember-tests-d2e22fb76bf2#.vw094zchz)
 - [Why Ember ? Get Shit Done](https://emberway.io/ember-get-shit-done-36383c2ccc53#.f432kt8ad)
 
+## Git
+- [Rerere Your Boat...](https://git-scm.com/blog/2010/03/08/rerere.html) `git rerere` functionality
+
 ## Entrepreneurship
 - [Building a Software Product: Lessons Learned](https://medium.com/@jonpitch/building-a-software-product-colon-lessons-learned-2d4e61cea6ea#.j94hdwqyj)
 - [Recruiting Developers](https://medium.com/@jonpitch/recruiting-developers-b8114cec6c54#.oc0ao2r7x)
