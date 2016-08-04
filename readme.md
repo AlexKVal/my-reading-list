@@ -4,7 +4,6 @@
 - [Regular expressions 101](https://regex101.com/)
 
 ## Great blogs
-
 - [Addy Osmani](https://addyosmani.com/blog/)
 - [David Walsh](https://davidwalsh.name/)
 - [Nicholas C. Zakas](https://www.nczonline.net/)
@@ -19,6 +18,7 @@
 
 ## Design
 - [Developing your eye for design](https://medium.com/@JonathanZWhite/developing-your-eye-for-design-cce944bbeae4#.ydt6akf0u)
+- [7 Rules for Creating Gorgeous UI](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda#.7hmoyzgg2). This is the Krav Maga of screens
 
 ### CSS
 - [CSS-Diner](http://flukeout.github.io/). A little game to help you learn CSS selectors
