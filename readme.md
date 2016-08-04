@@ -1,5 +1,8 @@
 # Links to awesome reading/learning resources
 
+## Great online tools
+- [Regular expressions 101](https://regex101.com/)
+
 ## Great blogs
 
 - [Addy Osmani](https://addyosmani.com/blog/)
