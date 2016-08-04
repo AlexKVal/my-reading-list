@@ -28,6 +28,9 @@
 - [Write Better Ember Tests](https://medium.com/@jonpitch/write-better-ember-tests-d2e22fb76bf2#.vw094zchz)
 - [Why Ember ? Get Shit Done](https://emberway.io/ember-get-shit-done-36383c2ccc53#.f432kt8ad)
 
+## Elixir
+- [Elixre. An Elixir regular expression editor & tester](http://www.elixre.uk/)
+
 ## Git
 - [Rerere Your Boat...](https://git-scm.com/blog/2010/03/08/rerere.html) `git rerere` functionality
 
