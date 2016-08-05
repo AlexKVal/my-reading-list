@@ -27,6 +27,7 @@
 ## Software engineering
 - [Don't Solve Imaginary Problems](https://www.nczonline.net/newsletter/archive/f0e1d724dd/)
 - [What growth engineers can teach us about engineering](https://medium.freecodecamp.com/what-growth-engineers-can-teach-us-about-engineering-f8bd38516e3e#.nlj0y8ige)
+- [How I build MVPs within 3 days](https://medium.com/@vadimdemedes/how-i-build-mvps-within-3-days-5d0b9ea86d9c#.mky9wf7hq)
 
 ## Ember
 - [Write Better Ember Tests](https://medium.com/@jonpitch/write-better-ember-tests-d2e22fb76bf2#.vw094zchz)
