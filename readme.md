@@ -25,6 +25,9 @@
 - [CSS-Diner](http://flukeout.github.io/). A little game to help you learn CSS selectors
 - [Medium’s CSS is actually pretty f***ing good](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06#.uxiui4b96)
 
+## JavaScript
+- [3 Different Kinds of Prototypal Inheritance: ES6+ Edition](https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9#.ma4dg0cxa)
+
 ## Software engineering
 - [Don't Solve Imaginary Problems](https://www.nczonline.net/newsletter/archive/f0e1d724dd/)
 - [What growth engineers can teach us about engineering](https://medium.freecodecamp.com/what-growth-engineers-can-teach-us-about-engineering-f8bd38516e3e#.nlj0y8ige)
