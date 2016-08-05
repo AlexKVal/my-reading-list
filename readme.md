@@ -17,9 +17,17 @@
 #### Companies' blogs
 - [Railsware](http://railsware.com/blog/)
 
+## Software engineering
+- [Don't Solve Imaginary Problems](https://www.nczonline.net/newsletter/archive/f0e1d724dd/)
+- [What growth engineers can teach us about engineering](https://medium.freecodecamp.com/what-growth-engineers-can-teach-us-about-engineering-f8bd38516e3e#.nlj0y8ige)
+- [How I build MVPs within 3 days](https://medium.com/@vadimdemedes/how-i-build-mvps-within-3-days-5d0b9ea86d9c#.mky9wf7hq)
+
 ## Design
 - [Developing your eye for design](https://medium.com/@JonathanZWhite/developing-your-eye-for-design-cce944bbeae4#.ydt6akf0u)
 - [7 Rules for Creating Gorgeous UI](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda#.7hmoyzgg2). This is the Krav Maga of screens
+
+### UX
+- [UX Crash Course: 31 Fundamentals](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals) (Must read)
 
 ### CSS
 - [CSS-Diner](http://flukeout.github.io/). A little game to help you learn CSS selectors
@@ -27,11 +35,6 @@
 
 ## JavaScript
 - [3 Different Kinds of Prototypal Inheritance: ES6+ Edition](https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9#.ma4dg0cxa)
-
-## Software engineering
-- [Don't Solve Imaginary Problems](https://www.nczonline.net/newsletter/archive/f0e1d724dd/)
-- [What growth engineers can teach us about engineering](https://medium.freecodecamp.com/what-growth-engineers-can-teach-us-about-engineering-f8bd38516e3e#.nlj0y8ige)
-- [How I build MVPs within 3 days](https://medium.com/@vadimdemedes/how-i-build-mvps-within-3-days-5d0b9ea86d9c#.mky9wf7hq)
 
 ## Ember
 - [Write Better Ember Tests](https://medium.com/@jonpitch/write-better-ember-tests-d2e22fb76bf2#.vw094zchz)
