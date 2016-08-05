@@ -59,6 +59,7 @@
 ## For beginners
 - [From Zero to Front-end Hero](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.ntk6n3au9)
 - [Why Django?](https://www.codeschool.com/blog/2016/08/03/why-django/)
+- [UI Design for Developers: Introduction](http://code.tutsplus.com/tutorials/ui-design-for-developers-introduction--active-9921)
 
 ## Recruitment
 - [Lessons from a year’s worth of hiring data](https://medium.freecodecamp.com/lessons-from-a-years-worth-of-hiring-data-dacf4e7668d4#.bh6hiyp81)
