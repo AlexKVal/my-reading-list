@@ -1,7 +1,8 @@
 # Links to awesome reading/learning resources
 
-## Great online tools
+## Great tools
 - [Regular expressions 101](https://regex101.com/)
+- [HTTPie. User-friendly curl replacement](https://github.com/jkbrzt/httpie)
 
 ## Great blogs
 - [Addy Osmani](https://addyosmani.com/blog/)
