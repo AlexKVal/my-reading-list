@@ -42,6 +42,7 @@
 
 ## React-Native
 - [Migrating Incrementally from a React App to React Native](https://medium.com/rendez-voo/migrating-incrementally-from-a-react-app-to-react-native-part-1-of-2-4566626e4ac5#.egtwaehew)
+- [Writing your first React Native module](https://medium.com/rendez-voo/writing-your-first-react-native-module-50ede0840dae#.djjj2pmjx)
 
 ## Elixir / Phoenix
 - [Elixre. An Elixir regular expression editor & tester](http://www.elixre.uk/)
