@@ -29,9 +29,13 @@
 ### UX
 - [UX Crash Course: 31 Fundamentals](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals) (Must read)
 
+
 ### CSS
 - [CSS-Diner](http://flukeout.github.io/). A little game to help you learn CSS selectors
 - [Medium’s CSS is actually pretty f***ing good](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06#.uxiui4b96)
+
+### SASS/SCSS
+- [Understanding placeholder selectors](http://thesassway.com/intermediate/understanding-placeholder-selectors)
 
 ## JavaScript
 - [3 Different Kinds of Prototypal Inheritance: ES6+ Edition](https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9#.ma4dg0cxa)
