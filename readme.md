@@ -78,3 +78,6 @@
 ### Misc interesting
 - [Photos and stories from a designer](https://medium.freecodecamp.com/photos-and-stories-from-a-designer-5ee97750ae5#.h0peaixjo)
 - [Imitation truly is the sincerest form of flattery](http://www.adhamdannaway.com/blog/web-design/imitation-truly-is-the-sincerest-form-of-flattery)
+
+## Building bricks
+- [Super fast and easy Social Media Sharing Buttons](http://sharingbuttons.io/)
