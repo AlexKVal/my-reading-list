@@ -81,3 +81,4 @@
 
 ## Building bricks
 - [Super fast and easy Social Media Sharing Buttons](http://sharingbuttons.io/)
+- [The World's Largest Icon Collection](http://streamlineicons.com/)
