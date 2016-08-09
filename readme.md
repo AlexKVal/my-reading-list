@@ -1,9 +1,5 @@
 # Links to awesome reading/learning resources
 
-## Great tools
-- [Regular expressions 101](https://regex101.com/)
-- [HTTPie. User-friendly curl replacement](https://github.com/jkbrzt/httpie)
-
 ## Great blogs
 - [Addy Osmani](https://addyosmani.com/blog/)
 - [David Walsh](https://davidwalsh.name/)
@@ -12,7 +8,8 @@
 - [Mark Otto @mdo](http://markdotto.com/) creator of Bootstrap
 - [Andrew McGivery](http://mcgivery.com/) Blog about `Ionic framework`
 - [Lauren Elizabeth Tan](https://medium.com/@sugarpirate)
-- [ railsonmaui](http://www.railsonmaui.com/)
+- [Justin Gordon](http://www.railsonmaui.com/)
+- [Patrick McKenzie](http://www.kalzumeus.com/blog/)
 
 #### Companies' blogs
 - [Railsware](http://railsware.com/blog/)
@@ -80,6 +77,10 @@
 ### Misc interesting
 - [Photos and stories from a designer](https://medium.freecodecamp.com/photos-and-stories-from-a-designer-5ee97750ae5#.h0peaixjo)
 - [Imitation truly is the sincerest form of flattery](http://www.adhamdannaway.com/blog/web-design/imitation-truly-is-the-sincerest-form-of-flattery)
+
+## Great tools
+- [Regular expressions 101](https://regex101.com/)
+- [HTTPie. User-friendly curl replacement](https://github.com/jkbrzt/httpie)
 
 ## Building bricks
 - [Super fast and easy Social Media Sharing Buttons](http://sharingbuttons.io/)
