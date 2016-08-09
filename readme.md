@@ -43,6 +43,7 @@
 ## Ember
 - [Write Better Ember Tests](https://medium.com/@jonpitch/write-better-ember-tests-d2e22fb76bf2#.vw094zchz)
 - [Why Ember ? Get Shit Done](https://emberway.io/ember-get-shit-done-36383c2ccc53#.f432kt8ad)
+- [Faking GraphQL with ember-cli-mirage](https://emberway.io/faking-graphql-with-ember-cli-mirage-811e83937a5b#.ky426tmvk)
 
 ## React-Native
 - [Migrating Incrementally from a React App to React Native](https://medium.com/rendez-voo/migrating-incrementally-from-a-react-app-to-react-native-part-1-of-2-4566626e4ac5#.egtwaehew)
