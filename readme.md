@@ -64,6 +64,7 @@
 > ... in a weird way, I’m almost guilting you to do what I need
 
 - [This is an Ultimate Guide to Becoming a Successful Entrepreneur](http://alltopstartups.com/2015/06/17/how-to-become-an-entrepreneur/)
+- [What I Learned From Increasing My Prices](http://www.extendslogic.com/business/what-i-learned-from-increasing-my-prices/)
 
 ## For beginners
 - [From Zero to Front-end Hero](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.ntk6n3au9)
