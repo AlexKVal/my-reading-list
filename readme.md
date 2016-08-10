@@ -50,6 +50,9 @@
 - [Elixre. An Elixir regular expression editor & tester](http://www.elixre.uk/)
 - [A tutorial. Trello tribute with Phoenix and React](http://codeloveandboards.com/blog/2016/01/04/trello-tribute-with-phoenix-and-react-pt-1/)
 
+## Ruby
+- [Always define `respond_to_missing?` when overriding `method_missing`](https://robots.thoughtbot.com/always-define-respond-to-missing-when-overriding)
+
 ## Git
 - [Rerere Your Boat...](https://git-scm.com/blog/2010/03/08/rerere.html) `git rerere` functionality
 
