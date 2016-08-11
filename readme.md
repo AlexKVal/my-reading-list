@@ -34,6 +34,9 @@
 ### SASS/SCSS
 - [Understanding placeholder selectors](http://thesassway.com/intermediate/understanding-placeholder-selectors)
 
+## Bootstrap
+- [Bootstrap practices by Rico Sta. Cruz](https://github.com/rstacruz/bootstrap-practices)
+
 ## JavaScript
 - [3 Different Kinds of Prototypal Inheritance: ES6+ Edition](https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9#.ma4dg0cxa)
 
