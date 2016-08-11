@@ -81,6 +81,7 @@
 ### Misc interesting
 - [Photos and stories from a designer](https://medium.freecodecamp.com/photos-and-stories-from-a-designer-5ee97750ae5#.h0peaixjo)
 - [Imitation truly is the sincerest form of flattery](http://www.adhamdannaway.com/blog/web-design/imitation-truly-is-the-sincerest-form-of-flattery)
+- [Twelve Weeks @ Basecamp: A Summer Tale](https://m.signalvnoise.com/twelve-weeks-basecamp-a-summer-tale-b6c181fa925#.ewmeuvwzx)
 
 ## Great tools
 - [Regular expressions 101](https://regex101.com/)
