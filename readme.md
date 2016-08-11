@@ -49,6 +49,7 @@
 ## Elixir / Phoenix
 - [Elixre. An Elixir regular expression editor & tester](http://www.elixre.uk/)
 - [A tutorial. Trello tribute with Phoenix and React](http://codeloveandboards.com/blog/2016/01/04/trello-tribute-with-phoenix-and-react-pt-1/)
+- [Phoenix Channels vs Rails Action Cable](https://dockyard.com/blog/2016/08/09/phoenix-channels-vs-rails-action-cable)
 
 ## Ruby
 - [Always define `respond_to_missing?` when overriding `method_missing`](https://robots.thoughtbot.com/always-define-respond-to-missing-when-overriding)
