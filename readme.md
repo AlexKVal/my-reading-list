@@ -73,6 +73,10 @@
 - [This is an Ultimate Guide to Becoming a Successful Entrepreneur](http://alltopstartups.com/2015/06/17/how-to-become-an-entrepreneur/)
 - [What I Learned From Increasing My Prices](http://www.extendslogic.com/business/what-i-learned-from-increasing-my-prices/)
 
+## Remote work
+- [Job boards, marketplaces and platforms](http://nodesk.co/remote-work/)
+- [GitLab's The Remote Manifesto](https://about.gitlab.com/2015/04/08/the-remote-manifesto/)
+
 ## For beginners
 - [From Zero to Front-end Hero](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.ntk6n3au9)
 - [Why Django?](https://www.codeschool.com/blog/2016/08/03/why-django/)
