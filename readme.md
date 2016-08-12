@@ -10,6 +10,7 @@
 - [Lauren Elizabeth Tan](https://medium.com/@sugarpirate)
 - [Justin Gordon](http://www.railsonmaui.com/)
 - [Patrick McKenzie](http://www.kalzumeus.com/blog/)
+- [Joel Gascoigne](http://joel.is/)
 
 #### Companies' blogs
 - [Railsware](http://railsware.com/blog/)
@@ -72,6 +73,7 @@
 
 - [This is an Ultimate Guide to Becoming a Successful Entrepreneur](http://alltopstartups.com/2015/06/17/how-to-become-an-entrepreneur/)
 - [What I Learned From Increasing My Prices](http://www.extendslogic.com/business/what-i-learned-from-increasing-my-prices/)
+- [3 reasons you shouldn't outsource your startup, and what to do instead](http://joel.is/3-reasons-you-shouldnt-outsource-your-startup-and-what-to-do-instead/)
 
 ## Remote work
 - [Job boards, marketplaces and platforms](http://nodesk.co/remote-work/)
