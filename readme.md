@@ -90,6 +90,7 @@
 - [Photos and stories from a designer](https://medium.freecodecamp.com/photos-and-stories-from-a-designer-5ee97750ae5#.h0peaixjo)
 - [Imitation truly is the sincerest form of flattery](http://www.adhamdannaway.com/blog/web-design/imitation-truly-is-the-sincerest-form-of-flattery)
 - [Twelve Weeks @ Basecamp: A Summer Tale](https://m.signalvnoise.com/twelve-weeks-basecamp-a-summer-tale-b6c181fa925#.ewmeuvwzx)
+- [How to Use Open Source and Shut the Fuck Up At the Same Time](https://hueniverse.com/2016/01/26/how-to-use-open-source-and-shut-the-fuck-up-at-the-same-time/)
 
 ## Great tools
 - [Regular expressions 101](https://regex101.com/)
