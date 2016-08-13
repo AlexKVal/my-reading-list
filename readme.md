@@ -58,6 +58,9 @@
 ## Ruby
 - [Always define `respond_to_missing?` when overriding `method_missing`](https://robots.thoughtbot.com/always-define-respond-to-missing-when-overriding)
 
+## Security
+- [Cross-Site Request Forgery (CSRF)](http://guides.rubyonrails.org/security.html#cross-site-request-forgery-csrf)
+
 ## Git
 - [Rerere Your Boat...](https://git-scm.com/blog/2010/03/08/rerere.html) `git rerere` functionality
 
