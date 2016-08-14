@@ -77,6 +77,7 @@
 - [This is an Ultimate Guide to Becoming a Successful Entrepreneur](http://alltopstartups.com/2015/06/17/how-to-become-an-entrepreneur/)
 - [What I Learned From Increasing My Prices](http://www.extendslogic.com/business/what-i-learned-from-increasing-my-prices/)
 - [3 reasons you shouldn't outsource your startup, and what to do instead](http://joel.is/3-reasons-you-shouldnt-outsource-your-startup-and-what-to-do-instead/)
+- [How I made my first million dollars (in pro bono code)](https://medium.freecodecamp.com/how-i-made-my-first-million-dollars-in-pro-bono-code-86f911040484#.givho6tge)
 
 ## Remote work
 - [Job boards, marketplaces and platforms](http://nodesk.co/remote-work/)
