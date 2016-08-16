@@ -90,6 +90,7 @@
 - [Why Django?](https://www.codeschool.com/blog/2016/08/03/why-django/)
 - [UI Design for Developers: Introduction](http://code.tutsplus.com/tutorials/ui-design-for-developers-introduction--active-9921)
 - [Basic SEO Tutorial for Beginners](http://www.whatisseo.com/seo-tutorial.html)
+- [Joining a New Team](https://www.nczonline.net/newsletter/archive/11f882f439/)
 
 ## Recruitment
 - [Lessons from a year’s worth of hiring data](https://medium.freecodecamp.com/lessons-from-a-years-worth-of-hiring-data-dacf4e7668d4#.bh6hiyp81)
