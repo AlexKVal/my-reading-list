@@ -51,6 +51,9 @@
 - [Migrating Incrementally from a React App to React Native](https://medium.com/rendez-voo/migrating-incrementally-from-a-react-app-to-react-native-part-1-of-2-4566626e4ac5#.egtwaehew)
 - [Writing your first React Native module](https://medium.com/rendez-voo/writing-your-first-react-native-module-50ede0840dae#.djjj2pmjx)
 
+## Elm
+-[It is zen. Some thoughts on Elm Development](https://medium.com/@NewMountain/some-thoughts-on-elm-development-39a0f8a9002a#.jhse7otkq)
+
 ## Elixir / Phoenix
 - [Elixre. An Elixir regular expression editor & tester](http://www.elixre.uk/)
 - [A tutorial. Trello tribute with Phoenix and React](http://codeloveandboards.com/blog/2016/01/04/trello-tribute-with-phoenix-and-react-pt-1/)
