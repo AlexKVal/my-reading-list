@@ -40,6 +40,7 @@
 
 ## JavaScript
 - [3 Different Kinds of Prototypal Inheritance: ES6+ Edition](https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9#.ma4dg0cxa)
+- [The cost of small modules](https://nolanlawson.com/2016/08/15/the-cost-of-small-modules/)
 
 ## Ember
 - [Write Better Ember Tests](https://medium.com/@jonpitch/write-better-ember-tests-d2e22fb76bf2#.vw094zchz)
