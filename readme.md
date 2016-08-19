@@ -11,6 +11,7 @@
 - [Justin Gordon](http://www.railsonmaui.com/)
 - [Patrick McKenzie](http://www.kalzumeus.com/blog/)
 - [Joel Gascoigne](http://joel.is/)
+- [Andreessen Horowitz](http://a16z.com/)
 
 #### Companies' blogs
 - [Railsware](http://railsware.com/blog/)
