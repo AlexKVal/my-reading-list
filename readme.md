@@ -12,6 +12,7 @@
 - [Patrick McKenzie](http://www.kalzumeus.com/blog/)
 - [Joel Gascoigne](http://joel.is/)
 - [Andreessen Horowitz](http://a16z.com/)
+- [TJ Holowaychuk](https://medium.com/@tjholowaychuk)
 
 #### Companies' blogs
 - [Railsware](http://railsware.com/blog/)
