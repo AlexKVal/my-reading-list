@@ -13,6 +13,7 @@
 - [Joel Gascoigne](http://joel.is/)
 - [Andreessen Horowitz](http://a16z.com/)
 - [TJ Holowaychuk](https://medium.com/@tjholowaychuk)
+- [Wes Bos](http://wesbos.com/blog/)
 
 #### Companies' blogs
 - [Railsware](http://railsware.com/blog/)
