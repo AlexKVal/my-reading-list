@@ -40,6 +40,7 @@
 
 ## Bootstrap
 - [Bootstrap practices by Rico Sta. Cruz](https://github.com/rstacruz/bootstrap-practices)
+- [Bootstrap 4. New & Cool Features](http://www.hongkiat.com/blog/boostrap-4-best-features/)
 
 ## JavaScript
 - [3 Different Kinds of Prototypal Inheritance: ES6+ Edition](https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9#.ma4dg0cxa)
