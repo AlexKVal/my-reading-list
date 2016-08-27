@@ -24,6 +24,7 @@
 - [Don't Solve Imaginary Problems](https://www.nczonline.net/newsletter/archive/f0e1d724dd/)
 - [What growth engineers can teach us about engineering](https://medium.freecodecamp.com/what-growth-engineers-can-teach-us-about-engineering-f8bd38516e3e#.nlj0y8ige)
 - [How I build MVPs within 3 days](https://medium.com/@vadimdemedes/how-i-build-mvps-within-3-days-5d0b9ea86d9c#.mky9wf7hq)
+- [Hunting for great names in programming](https://m.signalvnoise.com/hunting-for-great-names-in-programming-16f624c8fc03#.ybf2im80p)
 
 ## Design
 - [Developing your eye for design](https://medium.com/@JonathanZWhite/developing-your-eye-for-design-cce944bbeae4#.ydt6akf0u)
