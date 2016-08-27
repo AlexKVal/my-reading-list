@@ -46,6 +46,7 @@
 - [Bootstrap 4. New & Cool Features](http://www.hongkiat.com/blog/boostrap-4-best-features/)
 
 ## JavaScript
+- [You Should Learn Vanilla JavaScript Before Fancy JS Frameworks](https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks)
 - [3 Different Kinds of Prototypal Inheritance: ES6+ Edition](https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9#.ma4dg0cxa)
 - [The cost of small modules](https://nolanlawson.com/2016/08/15/the-cost-of-small-modules/)
 - [Computer Science in JS](https://www.nczonline.net/blog/tag/computer-science/)
