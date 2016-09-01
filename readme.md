@@ -37,6 +37,7 @@
 ### CSS
 - [CSS-Diner](http://flukeout.github.io/). A little game to help you learn CSS selectors
 - [Medium’s CSS is actually pretty f***ing good](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06#.uxiui4b96)
+- [Height equals width with pure CSS](http://www.mademyday.de/css-height-equals-width-with-pure-css.html)
 
 ### SASS/SCSS
 - [Understanding placeholder selectors](http://thesassway.com/intermediate/understanding-placeholder-selectors)
