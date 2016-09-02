@@ -53,6 +53,7 @@
 - [Computer Science in JS](https://www.nczonline.net/blog/tag/computer-science/)
 - [Comparing Redux and Relay](https://www.reindex.io/blog/redux-and-relay/)
 - [11 Simple npm Tricks](https://nodesource.com/blog/eleven-npm-tricks-that-will-knock-your-wombat-socks-off/)
+- [Three JavaScript performance fundamentals that make Bluebird fast](https://reaktor.com/blog/javascript-performance-fundamentals-make-bluebird-fast/)
 
 ## Ember
 - [Write Better Ember Tests](https://medium.com/@jonpitch/write-better-ember-tests-d2e22fb76bf2#.vw094zchz)
