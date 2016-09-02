@@ -52,6 +52,7 @@
 - [The cost of small modules](https://nolanlawson.com/2016/08/15/the-cost-of-small-modules/)
 - [Computer Science in JS](https://www.nczonline.net/blog/tag/computer-science/)
 - [Comparing Redux and Relay](https://www.reindex.io/blog/redux-and-relay/)
+- [11 Simple npm Tricks](https://nodesource.com/blog/eleven-npm-tricks-that-will-knock-your-wombat-socks-off/)
 
 ## Ember
 - [Write Better Ember Tests](https://medium.com/@jonpitch/write-better-ember-tests-d2e22fb76bf2#.vw094zchz)
