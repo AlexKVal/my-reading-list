@@ -15,6 +15,7 @@
 - [TJ Holowaychuk](https://medium.com/@tjholowaychuk)
 - [Wes Bos](http://wesbos.com/blog/)
 - [Rob Wise](http://robwise.github.io/blog/)
+- [Sam Selikoff](http://www.samselikoff.com/blog/)
 
 #### Companies' blogs
 - [Railsware](http://railsware.com/blog/)
