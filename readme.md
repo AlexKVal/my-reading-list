@@ -16,6 +16,7 @@
 - [Wes Bos](http://wesbos.com/blog/)
 - [Rob Wise](http://robwise.github.io/blog/)
 - [Sam Selikoff](http://www.samselikoff.com/blog/)
+- [Raymond Camden](https://www.raymondcamden.com/)
 - [Eduardo bouças](https://eduardoboucas.com/)
 
 #### Companies' blogs
