@@ -16,6 +16,7 @@
 - [Wes Bos](http://wesbos.com/blog/)
 - [Rob Wise](http://robwise.github.io/blog/)
 - [Sam Selikoff](http://www.samselikoff.com/blog/)
+- [Eduardo bouças](https://eduardoboucas.com/)
 
 #### Companies' blogs
 - [Railsware](http://railsware.com/blog/)
