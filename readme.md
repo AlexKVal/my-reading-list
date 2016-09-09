@@ -41,6 +41,7 @@
 - [CSS-Diner](http://flukeout.github.io/). A little game to help you learn CSS selectors
 - [Medium’s CSS is actually pretty f***ing good](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06#.uxiui4b96)
 - [Height equals width with pure CSS](http://www.mademyday.de/css-height-equals-width-with-pure-css.html)
+- [CSS Positioning Explained By Building An Ice Cream Sundae](https://medium.freecodecamp.com/css-positioning-explained-by-building-an-ice-cream-sundae-831cb884bfa9#.oldpddpsj)
 
 ### SASS/SCSS
 - [Understanding placeholder selectors](http://thesassway.com/intermediate/understanding-placeholder-selectors)
