@@ -54,19 +54,22 @@
 - [3 Different Kinds of Prototypal Inheritance: ES6+ Edition](https://medium.com/javascript-scene/3-different-kinds-of-prototypal-inheritance-es6-edition-32d777fa16c9#.ma4dg0cxa)
 - [The cost of small modules](https://nolanlawson.com/2016/08/15/the-cost-of-small-modules/)
 - [Computer Science in JS](https://www.nczonline.net/blog/tag/computer-science/)
-- [Comparing Redux and Relay](https://www.reindex.io/blog/redux-and-relay/)
 - [11 Simple npm Tricks](https://nodesource.com/blog/eleven-npm-tricks-that-will-knock-your-wombat-socks-off/)
 - [Three JavaScript performance fundamentals that make Bluebird fast](https://reaktor.com/blog/javascript-performance-fundamentals-make-bluebird-fast/)
+
+## React ecosystem
 - [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html)
+- [Comparing Redux and Relay](https://www.reindex.io/blog/redux-and-relay/)
+- [Why Redux is not so easy](https://medium.com/@machnicki/why-redux-is-not-so-easy-some-alternatives-24816d5ad22d#.8p4g5rpoh)
+
+## React-Native
+- [Migrating Incrementally from a React App to React Native](https://medium.com/rendez-voo/migrating-incrementally-from-a-react-app-to-react-native-part-1-of-2-4566626e4ac5#.egtwaehew)
+- [Writing your first React Native module](https://medium.com/rendez-voo/writing-your-first-react-native-module-50ede0840dae#.djjj2pmjx)
 
 ## Ember
 - [Write Better Ember Tests](https://medium.com/@jonpitch/write-better-ember-tests-d2e22fb76bf2#.vw094zchz)
 - [Why Ember ? Get Shit Done](https://emberway.io/ember-get-shit-done-36383c2ccc53#.f432kt8ad)
 - [Faking GraphQL with ember-cli-mirage](https://emberway.io/faking-graphql-with-ember-cli-mirage-811e83937a5b#.ky426tmvk)
-
-## React-Native
-- [Migrating Incrementally from a React App to React Native](https://medium.com/rendez-voo/migrating-incrementally-from-a-react-app-to-react-native-part-1-of-2-4566626e4ac5#.egtwaehew)
-- [Writing your first React Native module](https://medium.com/rendez-voo/writing-your-first-react-native-module-50ede0840dae#.djjj2pmjx)
 
 ## Elm
 -[It is zen. Some thoughts on Elm Development](https://medium.com/@NewMountain/some-thoughts-on-elm-development-39a0f8a9002a#.jhse7otkq)
