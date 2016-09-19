@@ -18,6 +18,7 @@
 - [Sam Selikoff](http://www.samselikoff.com/blog/)
 - [Raymond Camden](https://www.raymondcamden.com/)
 - [Eduardo bouças](https://eduardoboucas.com/)
+- [Thomas Fuchs](http://mir.aculo.us/)
 
 #### Companies' blogs
 - [Railsware](http://railsware.com/blog/)
