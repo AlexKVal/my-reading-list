@@ -87,6 +87,7 @@
 - [Always define `respond_to_missing?` when overriding `method_missing`](https://robots.thoughtbot.com/always-define-respond-to-missing-when-overriding)
 - [Ruby Mixin Tutorial](http://juixe.com/techknow/index.php/2006/06/15/mixins-in-ruby/)
 - [Metaprogramming in Ruby: It's All About the Self](http://yehudakatz.com/2009/11/15/metaprogramming-in-ruby-its-all-about-the-self/)
+- [The splat * operator in Ruby](https://4loc.wordpress.com/2009/01/16/the-splat-operator-in-ruby/)
 
 ## Rails
 - [Concerning Yourself with ActiveSupport::Concern](http://www.fakingfantastic.com/2010/09/20/concerning-yourself-with-active-support-concern/)
