@@ -76,7 +76,8 @@
 - [Faking GraphQL with ember-cli-mirage](https://emberway.io/faking-graphql-with-ember-cli-mirage-811e83937a5b#.ky426tmvk)
 
 ## Elm
--[It is zen. Some thoughts on Elm Development](https://medium.com/@NewMountain/some-thoughts-on-elm-development-39a0f8a9002a#.jhse7otkq)
+- [It is zen. Some thoughts on Elm Development](https://medium.com/@NewMountain/some-thoughts-on-elm-development-39a0f8a9002a#.jhse7otkq)
+- [How to Use Elm at Work](http://elm-lang.org/blog/how-to-use-elm-at-work)
 
 ## Elixir / Phoenix
 - [Elixre. An Elixir regular expression editor & tester](http://www.elixre.uk/)
