@@ -30,6 +30,7 @@
 - [How I build MVPs within 3 days](https://medium.com/@vadimdemedes/how-i-build-mvps-within-3-days-5d0b9ea86d9c#.mky9wf7hq)
 - [Hunting for great names in programming](https://m.signalvnoise.com/hunting-for-great-names-in-programming-16f624c8fc03#.ybf2im80p)
 - [How to actually ship software that actually works](http://mir.aculo.us/2015/08/25/how-to-actually-ship-software-that-actually-works/)
+- [Your Code May Be Elegant, But Mine Fucking Works]()http://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/amp/
 
 ## Design
 - [Developing your eye for design](https://medium.com/@JonathanZWhite/developing-your-eye-for-design-cce944bbeae4#.ydt6akf0u)
