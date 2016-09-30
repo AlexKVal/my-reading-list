@@ -63,10 +63,11 @@
 - [Three JavaScript performance fundamentals that make Bluebird fast](https://reaktor.com/blog/javascript-performance-fundamentals-make-bluebird-fast/)
 - [Things you probably didn’t know you could do with Chrome’s Developer Console](https://medium.freecodecamp.com/10-tips-to-maximize-your-javascript-debugging-experience-b69a75859329#.e1ck03n47)
 
-## React ecosystem
+## React related
 - [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html)
 - [Comparing Redux and Relay](https://www.reindex.io/blog/redux-and-relay/)
 - [Why Redux is not so easy](https://medium.com/@machnicki/why-redux-is-not-so-easy-some-alternatives-24816d5ad22d#.8p4g5rpoh)
+- [Make Your React Components Pretty](https://medium.com/walmartlabs/make-your-react-components-pretty-a1ae4ec0f56e#.xahv5ilrj)
 
 ## React-Native
 - [Migrating Incrementally from a React App to React Native](https://medium.com/rendez-voo/migrating-incrementally-from-a-react-app-to-react-native-part-1-of-2-4566626e4ac5#.egtwaehew)
