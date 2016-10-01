@@ -98,6 +98,7 @@
 
 ## Rails
 - [Concerning Yourself with ActiveSupport::Concern](http://www.fakingfantastic.com/2010/09/20/concerning-yourself-with-active-support-concern/)
+- [Authorization with Pundit](https://www.sitepoint.com/straightforward-rails-authorization-with-pundit/)
 
 ## Security
 - [Cross-Site Request Forgery (CSRF)](http://guides.rubyonrails.org/security.html#cross-site-request-forgery-csrf)
