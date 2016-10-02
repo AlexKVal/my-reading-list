@@ -106,6 +106,7 @@
 ## Git
 - [Rerere Your Boat...](https://git-scm.com/blog/2010/03/08/rerere.html) `git rerere` functionality
 - [Git Shortcuts Like You've Never Seen Before](http://madebynathan.com/2011/10/19/git-shortcuts-like-youve-never-seen-before/)
+- [Lesser known Git commands](https://hackernoon.com/lesser-known-git-commands-151a1918a60#.esqwxjwkx)
 
 ## Entrepreneurship
 - [Building a Software Product: Lessons Learned](https://medium.com/@jonpitch/building-a-software-product-colon-lessons-learned-2d4e61cea6ea#.j94hdwqyj)
