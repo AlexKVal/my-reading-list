@@ -89,6 +89,7 @@
 - [Counter Caching in Phoenix](https://medium.com/@lukerollans_17079/counter-caching-in-phoenix-8ac372e5c0c5#.xt4aum7f6)
 - [Elixir Maintainability](http://tech.findmypast.com/elixir-maintainability/)
 - [Elixir ETS Versus Redis](https://blog.codeship.com/elixir-ets-vs-redis/)
+- [Building and testing a Phoenix JSON API](https://robots.thoughtbot.com/building-a-phoenix-json-api)
 
 ## Ruby
 - [Always define `respond_to_missing?` when overriding `method_missing`](https://robots.thoughtbot.com/always-define-respond-to-missing-when-overriding)
