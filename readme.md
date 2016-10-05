@@ -105,6 +105,7 @@
 - [Concerning Yourself with ActiveSupport::Concern](http://www.fakingfantastic.com/2010/09/20/concerning-yourself-with-active-support-concern/)
 - [Authorization with Pundit](https://www.sitepoint.com/straightforward-rails-authorization-with-pundit/)
 - [Change data in migrations like a boss](http://railsguides.net/change-data-in-migrations-like-a-boss/)
+- [Getting Started with JBuilder](https://richonrails.com/articles/getting-started-with-jbuilder)
 
 ## Security
 - [Cross-Site Request Forgery (CSRF)](http://guides.rubyonrails.org/security.html#cross-site-request-forgery-csrf)
