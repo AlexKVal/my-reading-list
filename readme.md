@@ -106,6 +106,7 @@
 - [Authorization with Pundit](https://www.sitepoint.com/straightforward-rails-authorization-with-pundit/)
 - [Change data in migrations like a boss](http://railsguides.net/change-data-in-migrations-like-a-boss/)
 - [Getting Started with JBuilder](https://richonrails.com/articles/getting-started-with-jbuilder)
+- [How to Make a Rails 5 App API-Only](https://hashrocket.com/blog/posts/how-to-make-rails-5-api-only)
 
 ## Security
 - [Cross-Site Request Forgery (CSRF)](http://guides.rubyonrails.org/security.html#cross-site-request-forgery-csrf)
