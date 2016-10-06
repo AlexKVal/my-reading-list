@@ -95,6 +95,7 @@
 - [Elixir ETS Versus Redis](https://blog.codeship.com/elixir-ets-vs-redis/)
 - [Building and testing a Phoenix JSON API](https://robots.thoughtbot.com/building-a-phoenix-json-api)
 - [Mixins in Elixir](http://yos.io/2016/04/24/mixins-in-elixir/)
+- [KISS by Example: Authorization in Phoenix](https://dockyard.com/blog/2016/09/08/kiss-phoenix-auth)
 
 ## Ruby
 - [Always define `respond_to_missing?` when overriding `method_missing`](https://robots.thoughtbot.com/always-define-respond-to-missing-when-overriding)
