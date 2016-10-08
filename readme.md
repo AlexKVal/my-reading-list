@@ -66,6 +66,7 @@
 - [Things you probably didn’t know you could do with Chrome’s Developer Console](https://medium.freecodecamp.com/10-tips-to-maximize-your-javascript-debugging-experience-b69a75859329#.e1ck03n47)
 - [Angular 2 vs React: The Ultimate Dance Off](https://medium.com/javascript-scene/angular-2-vs-react-the-ultimate-dance-off-60e7dfbc379c#.esfc0vgkb)
 - [Vue 2.0 is Here!](https://medium.com/the-vue-point/vue-2-0-is-here-ef1f26acf4b8#.o4966ml2t)
+- [The Sad State of Web Development](https://medium.com/@wob/the-sad-state-of-web-development-1603a861d29f#.jfwel79zk)
 
 ## React related
 - [Thinking in React](https://facebook.github.io/react/docs/thinking-in-react.html)
