@@ -158,6 +158,7 @@
 - [Lessons from a year’s worth of hiring data](https://medium.freecodecamp.com/lessons-from-a-years-worth-of-hiring-data-dacf4e7668d4#.bh6hiyp81)
 - [How can we fix the firing process by Zach Holman](https://zachholman.com/talk/firing-people)
 - [People can’t gauge their own interview performance](https://medium.freecodecamp.com/people-cant-gauge-their-own-interview-performance-and-that-makes-them-harder-to-hire-96cd51601437#.vl9rtme6t)
+- [What I learned from reviewing 50 portfolios on Reddit in 3 crazy days.](https://medium.freecodecamp.com/i-reviewed-fifty-portfolios-on-reddit-and-this-is-what-i-learned-e5d2b43150bc#.yfed10o72)
 
 ### Misc interesting
 - [Photos and stories from a designer](https://medium.freecodecamp.com/photos-and-stories-from-a-designer-5ee97750ae5#.h0peaixjo)
