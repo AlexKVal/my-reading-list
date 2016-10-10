@@ -20,6 +20,7 @@
 - [Eduardo bouças](https://eduardoboucas.com/)
 - [Thomas Fuchs](http://mir.aculo.us/)
 - [Lauren Sperber](http://www.laurensperber.com/)
+- [Johnny Ji](http://johnnyji.me/)
 
 #### Companies' blogs
 - [Railsware](http://railsware.com/blog/)
