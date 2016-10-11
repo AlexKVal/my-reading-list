@@ -86,6 +86,7 @@
 - [Write Better Ember Tests](https://medium.com/@jonpitch/write-better-ember-tests-d2e22fb76bf2#.vw094zchz)
 - [Why Ember ? Get Shit Done](https://emberway.io/ember-get-shit-done-36383c2ccc53#.f432kt8ad)
 - [Faking GraphQL with ember-cli-mirage](https://emberway.io/faking-graphql-with-ember-cli-mirage-811e83937a5b#.ky426tmvk)
+- [How to Contribute to Ember](https://dockyard.com/blog/2016/09/30/how-to-contribute-to-ember)
 
 ## Elm
 - [It is zen. Some thoughts on Elm Development](https://medium.com/@NewMountain/some-thoughts-on-elm-development-39a0f8a9002a#.jhse7otkq)
