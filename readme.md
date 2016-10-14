@@ -23,6 +23,7 @@
 - [Johnny Ji](http://johnnyji.me/)
 
 #### Companies' blogs
+- [Red Shift](https://shift.infinite.red/)
 - [Railsware](http://railsware.com/blog/)
 - [A Magazine about the MEAN stack](http://www.ameanmagazine.com/)
 
