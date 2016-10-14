@@ -152,6 +152,7 @@
 - [Notes on Managing Remote Teams](https://hueniverse.com/2015/02/23/notes-on-managing-remote-teams/)
 - [How to Grow, Manage and Work with Remote Teams](https://zapier.com/learn/the-ultimate-guide-to-remote-working/)
 - [8 Proven Strategies for Better Remote Work](https://zapier.com/blog/productive-remote-work/)
+- [My Remote Developer Life — AMA](https://shift.infinite.red/my-remote-developer-life-ama-bb91fa7bd0bd#.sj6s72m2z)
 
 ## For beginners
 - [From Zero to Front-end Hero](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.ntk6n3au9)
