@@ -124,6 +124,7 @@
 - [Getting Started with JBuilder](https://richonrails.com/articles/getting-started-with-jbuilder)
 - [How to Make a Rails 5 App API-Only](https://hashrocket.com/blog/posts/how-to-make-rails-5-api-only)
 - [How Does ActiveJob Work?](https://karolgalanciak.com/blog/2016/09/25/decoding-rails-magic-how-does-activejob-work/)
+- [Speed up Capybara Tests with Devise](http://schneems.com/post/15948562424/speed-up-capybara-tests-with-devise/)
 
 ## Security
 - [Cross-Site Request Forgery (CSRF)](http://guides.rubyonrails.org/security.html#cross-site-request-forgery-csrf)
