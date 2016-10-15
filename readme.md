@@ -79,6 +79,10 @@
 - [Make Your React Components Pretty](https://medium.com/walmartlabs/make-your-react-components-pretty-a1ae4ec0f56e#.xahv5ilrj)
 - [Understanding React and reimplementing it from scratch](https://gcanti.github.io/2014/10/29/understanding-react-and-reimplementing-it-from-scratch-part-1.html)
 - [Why Anon Functions Murder Performance in React](http://johnnyji.me/react/2016/06/27/why-arrow-functions-murder-react-performance.html)
+- Leveling Up With React
+  - [React Router](https://css-tricks.com/learning-react-router/)
+  - [Container Components](https://css-tricks.com/learning-react-container-components/)
+  - [Redux](https://css-tricks.com/learning-react-redux/)
 
 ## React-Native
 - [Migrating Incrementally from a React App to React Native](https://medium.com/rendez-voo/migrating-incrementally-from-a-react-app-to-react-native-part-1-of-2-4566626e4ac5#.egtwaehew)
