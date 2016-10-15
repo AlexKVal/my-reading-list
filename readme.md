@@ -125,6 +125,7 @@
 - [How to Make a Rails 5 App API-Only](https://hashrocket.com/blog/posts/how-to-make-rails-5-api-only)
 - [How Does ActiveJob Work?](https://karolgalanciak.com/blog/2016/09/25/decoding-rails-magic-how-does-activejob-work/)
 - [Speed up Capybara Tests with Devise](http://schneems.com/post/15948562424/speed-up-capybara-tests-with-devise/)
+- [End-to-End Testing with RSpec Integration Tests and Capybara](https://robots.thoughtbot.com/rspec-integration-tests-with-capybara)
 
 ## Security
 - [Cross-Site Request Forgery (CSRF)](http://guides.rubyonrails.org/security.html#cross-site-request-forgery-csrf)
