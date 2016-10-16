@@ -184,6 +184,7 @@
 - [Warren Buffett about health](http://www.goodreads.com/quotes/587506-when-i-was-sixteen-i-had-just-two-things-on)
 - [30 days of answers on Stack Overflow](https://github.com/airpair/30-days-of-answers-on-stack-overflow/blob/master/post.md)
 - [Rocky Roads Ahead for Vacation Rental Investors?](https://www.rentivo.com/blog/vacation-rental-investors/)
+- [Being A Developer After 40](https://medium.freecodecamp.com/being-a-developer-after-40-3c5dd112210c#.qrm3lzer2)
 
 ## Great tools
 - [Regular expressions 101](https://regex101.com/)
