@@ -109,6 +109,7 @@
 - [KISS by Example: Authorization in Phoenix](https://dockyard.com/blog/2016/09/08/kiss-phoenix-auth)
 - [Dynamic forms with Phoenix](http://blog.plataformatec.com.br/2016/09/dynamic-forms-with-phoenix/)
 - [Use, import, require, what do they mean in Elixir?](http://learningelixir.joekain.com/use-import-require-in-elixir/)
+- [Online Elixir School](https://elixirschool.com/)
 
 ## Ruby
 - [Always define `respond_to_missing?` when overriding `method_missing`](https://robots.thoughtbot.com/always-define-respond-to-missing-when-overriding)
