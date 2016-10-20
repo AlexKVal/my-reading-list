@@ -44,7 +44,6 @@
 ### UX
 - [UX Crash Course: 31 Fundamentals](http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals) (Must read)
 
-
 ### CSS
 - [CSS-Diner](http://flukeout.github.io/). A little game to help you learn CSS selectors
 - [Medium’s CSS is actually pretty f***ing good](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06#.uxiui4b96)
@@ -128,6 +127,9 @@
 - [Speed up Capybara Tests with Devise](http://schneems.com/post/15948562424/speed-up-capybara-tests-with-devise/)
 - [End-to-End Testing with RSpec Integration Tests and Capybara](https://robots.thoughtbot.com/rspec-integration-tests-with-capybara)
 - [Rspec: Helper spec](https://www.relishapp.com/rspec/rspec-rails/v/3-5/docs/helper-specs/helper-spec)
+
+## PHP / Hack
+- [Taking PHP Seriously](https://slack.engineering/taking-php-seriously-cf7a60065329#.oqgnv6we4)
 
 ## Security
 - [Cross-Site Request Forgery (CSRF)](http://guides.rubyonrails.org/security.html#cross-site-request-forgery-csrf)
