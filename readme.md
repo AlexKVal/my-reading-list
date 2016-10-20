@@ -116,6 +116,7 @@
 - [Ruby Mixin Tutorial](http://juixe.com/techknow/index.php/2006/06/15/mixins-in-ruby/)
 - [Metaprogramming in Ruby: It's All About the Self](http://yehudakatz.com/2009/11/15/metaprogramming-in-ruby-its-all-about-the-self/)
 - [The splat * operator in Ruby](https://4loc.wordpress.com/2009/01/16/the-splat-operator-in-ruby/)
+- [Do we need constants?](http://www.virtuouscode.com/2011/08/18/do-we-need-constants/)
 
 ## Rails
 - [Concerning Yourself with ActiveSupport::Concern](http://www.fakingfantastic.com/2010/09/20/concerning-yourself-with-active-support-concern/)
