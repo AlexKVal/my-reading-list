@@ -130,6 +130,7 @@
 - [Speed up Capybara Tests with Devise](http://schneems.com/post/15948562424/speed-up-capybara-tests-with-devise/)
 - [End-to-End Testing with RSpec Integration Tests and Capybara](https://robots.thoughtbot.com/rspec-integration-tests-with-capybara)
 - [Rspec: Helper spec](https://www.relishapp.com/rspec/rspec-rails/v/3-5/docs/helper-specs/helper-spec)
+- [Reverb’s story of moving to Webpack on the frontend](https://product.reverb.com/react-on-rails-9936283aea07#.pculzaw1i)
 
 ## PHP / Hack
 - [Taking PHP Seriously](https://slack.engineering/taking-php-seriously-cf7a60065329#.oqgnv6we4)
