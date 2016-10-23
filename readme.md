@@ -21,6 +21,7 @@
 - [Thomas Fuchs](http://mir.aculo.us/)
 - [Lauren Sperber](http://www.laurensperber.com/)
 - [Johnny Ji](http://johnnyji.me/)
+- [Jake Archibald](https://jakearchibald.com/)
 
 #### Companies' blogs
 - [Red Shift](https://shift.infinite.red/)
