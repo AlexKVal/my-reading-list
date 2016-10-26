@@ -114,6 +114,7 @@
 - [Use, import, require, what do they mean in Elixir?](http://learningelixir.joekain.com/use-import-require-in-elixir/)
 - [Online Elixir School](https://elixirschool.com/)
 - [Elixir and IO Lists](https://www.bignerdranch.com/blog/elixir-and-io-lists-part-2-io-lists-in-phoenix/)
+- [Visualisation of Elixir Supervision Tree Strategies](https://medium.com/@mustafaturan/visualisation-of-elixir-supervision-tree-strategies-4d4cb8123138#.dd16ps40e)
 
 ## Ruby
 - [Always define `respond_to_missing?` when overriding `method_missing`](https://robots.thoughtbot.com/always-define-respond-to-missing-when-overriding)
