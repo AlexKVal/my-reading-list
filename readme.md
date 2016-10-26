@@ -113,6 +113,7 @@
 - [Dynamic forms with Phoenix](http://blog.plataformatec.com.br/2016/09/dynamic-forms-with-phoenix/)
 - [Use, import, require, what do they mean in Elixir?](http://learningelixir.joekain.com/use-import-require-in-elixir/)
 - [Online Elixir School](https://elixirschool.com/)
+- [Elixir and IO Lists](https://www.bignerdranch.com/blog/elixir-and-io-lists-part-2-io-lists-in-phoenix/)
 
 ## Ruby
 - [Always define `respond_to_missing?` when overriding `method_missing`](https://robots.thoughtbot.com/always-define-respond-to-missing-when-overriding)
