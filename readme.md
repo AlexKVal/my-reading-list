@@ -138,6 +138,7 @@
 - [Reverb’s story of moving to Webpack on the frontend](https://product.reverb.com/react-on-rails-9936283aea07#.pculzaw1i)
 - [3 ways to integrate Ruby on Rails + React + Flux](http://www.openmindedinnovations.com/blogs/3-ways-to-integrate-ruby-on-rails-react-flux)
 - [React on Rails, 2000+ Stars](https://medium.com/shakacode/react-on-rails-2000-stars-32ff5cfacfbf#.drmtfmpg9)
+- [Ruby on Rails development setup for Mac OSX](http://www.createdbypete.com/articles/ruby-on-rails-development-setup-for-mac-osx/)
 
 ## PHP / Hack
 - [Taking PHP Seriously](https://slack.engineering/taking-php-seriously-cf7a60065329#.oqgnv6we4)
