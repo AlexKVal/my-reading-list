@@ -139,6 +139,7 @@
 - [3 ways to integrate Ruby on Rails + React + Flux](http://www.openmindedinnovations.com/blogs/3-ways-to-integrate-ruby-on-rails-react-flux)
 - [React on Rails, 2000+ Stars](https://medium.com/shakacode/react-on-rails-2000-stars-32ff5cfacfbf#.drmtfmpg9)
 - [Ruby on Rails development setup for Mac OSX](http://www.createdbypete.com/articles/ruby-on-rails-development-setup-for-mac-osx/)
+- [The 10 Most Common Mistakes That Rails Developers Make](https://www.toptal.com/ruby-on-rails/top-10-mistakes-that-rails-programmers-make)
 
 ## PHP / Hack
 - [Taking PHP Seriously](https://slack.engineering/taking-php-seriously-cf7a60065329#.oqgnv6we4)
