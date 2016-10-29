@@ -169,6 +169,7 @@
 - [Understanding VCs](http://avc.com/2016/08/understanding-vcs/)
 - [The Shape of Traction](http://robgo.org/2016/09/07/the-shape-of-traction/)
 - [I Analyzed 250 SaaS Pricing Pages — Here’s What I Found](https://www.process.st/saas-pricing-pages/)
+- [Hourly Billing is Nuts](https://blog.arkency.com/2016/10/hourly-billing-is-nuts/)
 
 ## Remote work
 - [Job boards, marketplaces and platforms](http://nodesk.co/remote-work/)
