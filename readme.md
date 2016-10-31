@@ -207,6 +207,7 @@
 - [Rocky Roads Ahead for Vacation Rental Investors?](https://www.rentivo.com/blog/vacation-rental-investors/)
 - [Being A Developer After 40](https://medium.freecodecamp.com/being-a-developer-after-40-3c5dd112210c#.qrm3lzer2)
 - [Differentiable neural computers](https://deepmind.com/blog/differentiable-neural-computers/)
+- [5 Ways that foreign languages can enrich your life – Robin MacPherson](http://www.thepolyglotdream.com/5-ways-foreign-languages-can-change-life-robin-mcpherson/)
 
 ## Great tools
 - [Regular expressions 101](https://regex101.com/)
