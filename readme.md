@@ -87,6 +87,7 @@
   - [React Router](https://css-tricks.com/learning-react-router/)
   - [Container Components](https://css-tricks.com/learning-react-container-components/)
   - [Redux](https://css-tricks.com/learning-react-redux/)
+- [The Most Important Eslint Rule for Redux Applications](The Most Important Eslint Rule for Redux Applications)
 
 ## React-Native
 - [Migrating Incrementally from a React App to React Native](https://medium.com/rendez-voo/migrating-incrementally-from-a-react-app-to-react-native-part-1-of-2-4566626e4ac5#.egtwaehew)
