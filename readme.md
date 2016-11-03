@@ -27,6 +27,7 @@
 - [Red Shift](https://shift.infinite.red/)
 - [Railsware](http://railsware.com/blog/)
 - [A Magazine about the MEAN stack](http://www.ameanmagazine.com/)
+- [Overstuffed Gorilla](http://blog.overstuffedgorilla.com/)
 
 ## Software engineering
 - [Don't Solve Imaginary Problems](https://www.nczonline.net/newsletter/archive/f0e1d724dd/)
