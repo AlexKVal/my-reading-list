@@ -90,6 +90,7 @@
   - [Redux](https://css-tricks.com/learning-react-redux/)
 - [The Most Important Eslint Rule for Redux Applications](The Most Important Eslint Rule for Redux Applications)
 - [React, Redux and Immutable.js](https://www.toptal.com/react/react-redux-and-immutablejs)
+- [5 Simple Tips for Your First React + Redux Project](https://blog.preen.ly/5-simple-tips-for-your-first-react-redux-project-10cbb2727b9a#.djzhyu7hz)
 
 ## React-Native
 - [Migrating Incrementally from a React App to React Native](https://medium.com/rendez-voo/migrating-incrementally-from-a-react-app-to-react-native-part-1-of-2-4566626e4ac5#.egtwaehew)
