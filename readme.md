@@ -41,6 +41,7 @@
 - [Make Large Scale Changes Incrementally with Branch By Abstraction](https://continuousdelivery.com/2011/05/make-large-scale-changes-incrementally-with-branch-by-abstraction/)
 - [Enabling Trunk Based Development with Deployment Pipelines](https://www.thoughtworks.com/insights/blog/enabling-trunk-based-development-deployment-pipelines)
 - [Tell, Don't Ask](https://robots.thoughtbot.com/tell-dont-ask)
+- [Designing Data-Driven Interfaces](https://blog.truthlabs.com/designing-data-driven-interfaces-a75d62997631#.jfs89ov1o)
 
 ## Design
 - [Developing your eye for design](https://medium.com/@JonathanZWhite/developing-your-eye-for-design-cce944bbeae4#.ydt6akf0u)
