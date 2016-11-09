@@ -154,6 +154,7 @@
 - [Ruby on Rails development setup for Mac OSX](http://www.createdbypete.com/articles/ruby-on-rails-development-setup-for-mac-osx/)
 - [The 10 Most Common Mistakes That Rails Developers Make](https://www.toptal.com/ruby-on-rails/top-10-mistakes-that-rails-programmers-make)
 - [Object-oriented controversies: Tell Don't Ask vs the Web](http://tmichel.github.io/2015/09/14/oo-controversies-tell-dont-ask-vs-the-web/)
+- [Gourmet Service Objects](http://brewhouse.io/blog/2014/04/30/gourmet-service-objects.html)
 
 ## PHP / Hack
 - [Taking PHP Seriously](https://slack.engineering/taking-php-seriously-cf7a60065329#.oqgnv6we4)
