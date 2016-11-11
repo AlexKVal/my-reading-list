@@ -110,6 +110,7 @@
 ## Elm
 - [It is zen. Some thoughts on Elm Development](https://medium.com/@NewMountain/some-thoughts-on-elm-development-39a0f8a9002a#.jhse7otkq)
 - [How to Use Elm at Work](http://elm-lang.org/blog/how-to-use-elm-at-work)
+- [Building A React/Redux/Elm Bridge](https://medium.com/javascript-inside/building-a-react-redux-elm-bridge-8f5b875a9b76#.rs6ibxwbb)
 
 ## Elixir / Phoenix
 - [Elixre. An Elixir regular expression editor & tester](http://www.elixre.uk/)
