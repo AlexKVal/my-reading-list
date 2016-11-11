@@ -156,6 +156,7 @@
 - [The 10 Most Common Mistakes That Rails Developers Make](https://www.toptal.com/ruby-on-rails/top-10-mistakes-that-rails-programmers-make)
 - [Object-oriented controversies: Tell Don't Ask vs the Web](http://tmichel.github.io/2015/09/14/oo-controversies-tell-dont-ask-vs-the-web/)
 - [Gourmet Service Objects](http://brewhouse.io/blog/2014/04/30/gourmet-service-objects.html)
+- [My issues with Let (RSpec)](https://robots.thoughtbot.com/my-issues-with-let)
 
 ## PHP / Hack
 - [Taking PHP Seriously](https://slack.engineering/taking-php-seriously-cf7a60065329#.oqgnv6we4)
