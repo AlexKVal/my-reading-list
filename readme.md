@@ -22,6 +22,7 @@
 - [Lauren Sperber](http://www.laurensperber.com/)
 - [Johnny Ji](http://johnnyji.me/)
 - [Jake Archibald](https://jakearchibald.com/)
+- [UX. Luke Wroblewski](http://www.lukew.com/about/)
 
 #### Companies' blogs
 - [Red Shift](https://shift.infinite.red/)
