@@ -42,6 +42,7 @@
 - [Enabling Trunk Based Development with Deployment Pipelines](https://www.thoughtworks.com/insights/blog/enabling-trunk-based-development-deployment-pipelines)
 - [Tell, Don't Ask](https://robots.thoughtbot.com/tell-dont-ask)
 - [Designing Data-Driven Interfaces](https://blog.truthlabs.com/designing-data-driven-interfaces-a75d62997631#.jfs89ov1o)
+- [OSS. Why this is not still merged?](https://github.com/turbolinks/turbolinks/pull/124#issuecomment-239826060)
 
 ## Design
 - [Developing your eye for design](https://medium.com/@JonathanZWhite/developing-your-eye-for-design-cce944bbeae4#.ydt6akf0u)
