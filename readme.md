@@ -141,6 +141,7 @@
 - [Do we need constants?](http://www.virtuouscode.com/2011/08/18/do-we-need-constants/)
 - [The Safe Navigation Operator (&.)](http://mitrev.net/ruby/2015/11/13/the-operator-in-ruby/)
 - [Hidden features of Ruby](http://blog.arkency.com/2014/07/hidden-features-of-ruby-you-may-dont-know-about/)
+- [Using “and” and “or” in Ruby](http://www.virtuouscode.com/2010/08/02/using-and-and-or-in-ruby/)
 
 ## Rails
 - [Concerning Yourself with ActiveSupport::Concern](http://www.fakingfantastic.com/2010/09/20/concerning-yourself-with-active-support-concern/)
