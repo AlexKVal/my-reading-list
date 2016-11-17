@@ -165,6 +165,7 @@
 - [My issues with Let (RSpec)](https://robots.thoughtbot.com/my-issues-with-let)
 - [Let's Not (RSpec)](https://robots.thoughtbot.com/lets-not)
 - [How DHH Organizes His Rails Controllers](http://jeromedalbert.com/how-dhh-organizes-his-rails-controllers/)
+- [Rails Database Best Practices](http://blog.carbonfive.com/2016/11/16/rails-database-best-practices/)
 
 ## PHP / Hack
 - [Taking PHP Seriously](https://slack.engineering/taking-php-seriously-cf7a60065329#.oqgnv6we4)
