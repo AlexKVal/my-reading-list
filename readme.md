@@ -171,6 +171,7 @@
 - [Rails Database Best Practices](http://blog.carbonfive.com/2016/11/16/rails-database-best-practices/)
 - [Replacing the Rails Asset Pipeline with Webpack and Yarn](http://pixelatedworks.com/articles/replacing-the-rails-asset-pipeline-with-webpack-and-yarn/)
 - [Includes vs Joins in Rails: When and where?](http://tomdallimore.com/blog/includes-vs-joins-in-rails-when-and-where/)
+- [Where Does Your Code Go?](http://www.justinweiss.com/articles/where-do-you-put-your-code/)
 
 ## PHP / Hack
 - [Taking PHP Seriously](https://slack.engineering/taking-php-seriously-cf7a60065329#.oqgnv6we4)
