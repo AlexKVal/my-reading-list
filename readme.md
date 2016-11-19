@@ -45,6 +45,7 @@
 - [Tell, Don't Ask](https://robots.thoughtbot.com/tell-dont-ask)
 - [Designing Data-Driven Interfaces](https://blog.truthlabs.com/designing-data-driven-interfaces-a75d62997631#.jfs89ov1o)
 - [OSS. Why this is not still merged?](https://github.com/turbolinks/turbolinks/pull/124#issuecomment-239826060)
+- [How we structure our work and teams at Basecamp](https://m.signalvnoise.com/how-we-set-up-our-work-cbce3d3d9cae#.nqppp4vb1)
 
 ## Design
 - [Developing your eye for design](https://medium.com/@JonathanZWhite/developing-your-eye-for-design-cce944bbeae4#.ydt6akf0u)
