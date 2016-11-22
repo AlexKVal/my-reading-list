@@ -206,6 +206,7 @@
 - [I Analyzed 250 SaaS Pricing Pages — Here’s What I Found](https://www.process.st/saas-pricing-pages/)
 - [Hourly Billing is Nuts](https://blog.arkency.com/2016/10/hourly-billing-is-nuts/)
 - [What Every Founder Should Constantly Be Thinking About](https://medium.com/product-hunt/what-every-founder-should-constantly-be-thinking-about-fcdc2e2ec851#.irtgg4un2)
+- [Bad Manager by Jonathan Snook](https://snook.ca/archives/other/bad-manager)
 
 ## Remote work
 - [Job boards, marketplaces and platforms](http://nodesk.co/remote-work/)
