@@ -139,6 +139,7 @@
 - [Visualisation of Elixir Supervision Tree Strategies](https://medium.com/@mustafaturan/visualisation-of-elixir-supervision-tree-strategies-4d4cb8123138#.dd16ps40e)
 - [Anatomy of an Elixir Process](https://medium.com/@mustafaturan/anatomy-of-an-elixir-process-878030c37166#.ra4zt26sx)
 - [Elixir for Rubyists: Pattern matching and Recursion](http://www.weeklycommit.com/elixir-for-rubyists-pattern-matching-and-recursion/)
+- [What I learned migrating a Rails app to Elixir/Phoenix](https://medium.com/@stueccles/what-i-learned-migrating-a-rails-app-to-elixir-phoenix-f707436749aa#.cixqaka2w)
 
 ## Ruby
 - [Always define `respond_to_missing?` when overriding `method_missing`](https://robots.thoughtbot.com/always-define-respond-to-missing-when-overriding)
