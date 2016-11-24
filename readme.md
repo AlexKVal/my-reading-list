@@ -209,6 +209,7 @@
 - [Hourly Billing is Nuts](https://blog.arkency.com/2016/10/hourly-billing-is-nuts/)
 - [What Every Founder Should Constantly Be Thinking About](https://medium.com/product-hunt/what-every-founder-should-constantly-be-thinking-about-fcdc2e2ec851#.irtgg4un2)
 - [Bad Manager by Jonathan Snook](https://snook.ca/archives/other/bad-manager)
+- [It was every startups’ worst nightmare](https://www.groovehq.com/blog/how-our-startup-almost-died)
 
 ## Remote work
 - [Job boards, marketplaces and platforms](http://nodesk.co/remote-work/)
