@@ -210,6 +210,7 @@
 - [What Every Founder Should Constantly Be Thinking About](https://medium.com/product-hunt/what-every-founder-should-constantly-be-thinking-about-fcdc2e2ec851#.irtgg4un2)
 - [Bad Manager by Jonathan Snook](https://snook.ca/archives/other/bad-manager)
 - [It was every startups’ worst nightmare](https://www.groovehq.com/blog/how-our-startup-almost-died)
+- [Behind the Scenes: How We’ve Built a $5M/Year Business in 3 Years With Content Marketing](https://www.groovehq.com/blog/how-we-built-a-5m-business-with-content-marketing)
 
 ## Remote work
 - [Job boards, marketplaces and platforms](http://nodesk.co/remote-work/)
