@@ -222,6 +222,7 @@
 - [Around the World in 80+ Days Whilst Getting Paid](https://shift.infinite.red/around-the-world-in-80-days-whilst-getting-paid-d8620f8c2983#.6uhoeta4v)
 - [Working Remotely by Jonathan Snook](https://snook.ca/archives/other/working-remotely)
 - [How We’ve Built a Remote Company Culture to Be Grateful For](https://www.groovehq.com/blog/a-remote-culture-to-be-grateful-for)
+- [The Pros & Cons of Being a Remote Team](https://www.groovehq.com/blog/being-a-remote-team)
 
 ## For beginners
 - [From Zero to Front-end Hero](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.ntk6n3au9)
