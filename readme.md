@@ -213,6 +213,7 @@
 - [Behind the Scenes: How We’ve Built a $5M/Year Business in 3 Years With Content Marketing](https://www.groovehq.com/blog/how-we-built-a-5m-business-with-content-marketing)
 - [How We Got 1,000+ Subscribers from a Single Blog Post in 24 Hours](https://www.groovehq.com/blog/1000-subscribers)
 - [The #1 Reason Why People Think They Can Underpay You](http://socialtriggers.com/why-people-underpay/)
+- [When "Sorry" isn't enough, do this instead...](http://socialtriggers.com/when-sorry-isnt-enough/)
 
 ## Remote work
 - [Job boards, marketplaces and platforms](http://nodesk.co/remote-work/)
