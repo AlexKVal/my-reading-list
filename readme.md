@@ -214,6 +214,7 @@
 - [How We Got 1,000+ Subscribers from a Single Blog Post in 24 Hours](https://www.groovehq.com/blog/1000-subscribers)
 - [The #1 Reason Why People Think They Can Underpay You](http://socialtriggers.com/why-people-underpay/)
 - [When "Sorry" isn't enough, do this instead...](http://socialtriggers.com/when-sorry-isnt-enough/)
+- [The psychological reason why you should sell what you know](http://socialtriggers.com/selling-expertise/)
 
 ## Remote work
 - [Job boards, marketplaces and platforms](http://nodesk.co/remote-work/)
