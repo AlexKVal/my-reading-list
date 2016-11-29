@@ -259,6 +259,7 @@
 - [5 Ways that foreign languages can enrich your life – Robin MacPherson](http://www.thepolyglotdream.com/5-ways-foreign-languages-can-change-life-robin-mcpherson/)
 - [What are some of the first things you do in the morning?](https://www.quora.com/What-are-some-of-the-first-things-you-do-in-the-morning/answer/Julius-Baron-1?srid=3Xkf)
 - [The code I’m still ashamed of](https://medium.freecodecamp.com/the-code-im-still-ashamed-of-e4c021dff55e#.wy1wxj4wr)
+- [Surviving Your First Week In Vim](http://www.benorenstein.com/blog/surviving-your-first-week-in-vim)
 
 ## Great tools
 - [Regular expressions 101](https://regex101.com/)
