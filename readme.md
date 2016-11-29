@@ -245,6 +245,7 @@
 - [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331#.uod2rsqrw)
 - [How Our Startup Hires Top Talent Without Bidding Against Google](https://www.groovehq.com/blog/hiring-top-talent)
 - [Lessons Learned Building a Startup Team](https://www.groovehq.com/blog/building-a-team)
+- [How to Recruit Me](http://www.benorenstein.com/blog/how-to-recruit-me)
 
 ### Misc interesting
 - [Photos and stories from a designer](https://medium.freecodecamp.com/photos-and-stories-from-a-designer-5ee97750ae5#.h0peaixjo)
