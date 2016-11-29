@@ -48,6 +48,7 @@
 - [How we structure our work and teams at Basecamp](https://m.signalvnoise.com/how-we-set-up-our-work-cbce3d3d9cae#.nqppp4vb1)
 - [Full-stack development is alive and well. And for good reasons.](https://medium.freecodecamp.com/full-stack-between-reality-and-wishful-thinking-43110005f2a2#.y4t843yqc)
 - [Thoughts on Calypso, WordPress and JavaScript](https://john.onolan.org/calypso/)
+- [How to Improve as a Programmer](http://www.benorenstein.com/blog/how-to-improve-as-a-programmer)
 
 ## Design
 - [Developing your eye for design](https://medium.com/@JonathanZWhite/developing-your-eye-for-design-cce944bbeae4#.ydt6akf0u)
