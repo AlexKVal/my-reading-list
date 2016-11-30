@@ -1,5 +1,9 @@
 # Links to awesome reading/learning resources
 
+It has been discontinued.
+Now I'm posting new links directly onto my site http://alexkval.github.io/readings.html
+
+
 ## Great blogs
 - [Addy Osmani](https://addyosmani.com/blog/)
 - [David Walsh](https://davidwalsh.name/)
