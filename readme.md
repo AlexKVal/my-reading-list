@@ -218,6 +218,7 @@
 - [The psychological reason why you should sell what you know](http://socialtriggers.com/selling-expertise/)
 - [The dumb pricing mistake people make (and how to fix it)](http://socialtriggers.com/dumb-pricing-mistake/)
 - [Why bloggers fail](http://socialtriggers.com/why-bloggers-fail/)
+- [Freelance is gr8; protection, proaction and pbusiness shit](https://medium.com/@scott_riley/freelance-is-gr8-part-4-protection-proaction-and-pbusiness-shit-ed8cca46c16b#.cj1ym7mfs)
 
 ## Remote work
 - [Job boards, marketplaces and platforms](http://nodesk.co/remote-work/)
